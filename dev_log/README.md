@@ -483,3 +483,11 @@ github.io를 통해 배포를 시도하였다. 결과적으로 대실패. ㅜㅜ
 - Vue2로 시작해서 그런 것 같다. 배포가 성공적으로 마무리되었을 때는 Vue2, Vue3이 아닌 다른 것을 골랐다.
 
 - 혹은, 파일의 경로가 잘못되어 그런 것 같다. ㅠㅠ
+  - 기존: /study_time_check_web/
+  - 변경: /ssafy5-study/study_time_check_web/study_time/
+- 결과적으로 실패했다.
+
+ㅠㅠ
+
+
+
